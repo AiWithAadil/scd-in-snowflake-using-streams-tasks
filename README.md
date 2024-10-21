@@ -5,7 +5,7 @@ This project demonstrates the implementation of Slowly Changing Dimensions (SCD)
 ## Diagram
 Below is a visual representation of the pipeline:
 
-![Pipeline Diagram](//SCD-PROJECT-STRUCTURE.png)
+![Pipeline Diagram](images/SCD-PROJECT-STRUCTURE.png)
 
 ## Pipeline Overview
 - **Amazon S3**: Stores the incoming data files.
